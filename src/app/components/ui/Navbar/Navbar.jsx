@@ -2,8 +2,8 @@
 
 import Link from 'next/link';
 import { useEffect, useRef, useState } from 'react';
-import NavHeader from '@/components/ui/NavHeader/NavHeader';
-import NavLink from '@/components/ui/NavLink/NavLink';
+import NavHeader from '@/app/components/ui/NavHeader/NavHeader';
+import NavLink from '@/app/components/ui/NavLink/NavLink';
 
 const Navbar = () => {
 

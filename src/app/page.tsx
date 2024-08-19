@@ -1,7 +1,7 @@
-import HomePage from "@/components/home/home-page";
+import HomePage from "@/app/components/home/home-page";
 import Image from "next/image";
-import NavBar from "@/components/ui/Navbar/Navbar";
-import Footer from "@/components/ui/Footer/Footer";
+import NavBar from "@/app/components/ui/Navbar/Navbar";
+import Footer from "@/app/components/ui/Footer/Footer";
 
 
 
