@@ -11,9 +11,9 @@ const Navbar = () => {
     const menuBtnEl = useRef()
 
     const navigation = [
-        { name: "Features", href: "/#features" },
-        { name: "Pricing", href: "/#pricing" },
-        { name: "Testimonials", href: "/#testimonials" },
+        { name: "About", href: "/#about" },
+        { name: "Search", href: "/#search" },
+        { name: "Deck Builder", href: "/#deckbuilder" },
         { name: "FAQs", href: "/#faqs" },
     ]
 
